@@ -1,5 +1,4 @@
 ### Atkansa Profile
-![profile count](https://komarev.com/ghpvc/?username=acarfx&color=red)&nbsp;
 [![GitHub Atkansa](https://img.shields.io/github/followers/atkansa?style=for-the-badge)](https://github.com/atkansa)&nbsp;
 ![Discord](https://img.shields.io/discord/773569062331613194?style=for-the-badge)
 ### 🛠 &nbsp;Software Languages
@@ -16,5 +15,4 @@
 <a href="https://instagram.com/sametatkan"><img src="https://img.shields.io/badge/@acarfx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ### 🌟 Official Discord Account
-<a href="https://discord.com/users/342408571084079104" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/342408571084079104/"></a>
-
+Atkansa#5382
